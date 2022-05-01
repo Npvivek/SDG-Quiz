@@ -112,6 +112,7 @@ img {
 .pp-gallery .card-columns .card {
   border: none;
   margin-bottom: 0;
+  align-items: center;
   border-radius: none;
 }
 @media (max-width: 992px) {
