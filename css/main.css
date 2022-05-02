@@ -16,6 +16,12 @@ h3{
   border-bottom: 2px solid green;
   width: fit-content;
 }
+@media (max-width: 525px) {
+  h3 {
+    margin: auto;
+  }
+}
+
 hr.style-six {
   padding: 0;
   border: none;
